@@ -1,0 +1,29 @@
+body{
+    background: url(/deneme/img/galaxy.gif);
+    text-align: center;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color:gray;
+}
+input{
+    border-radius: 3px;
+}
+select{
+    text-transform: capitalize;
+}
+button{
+    border-radius: 3px;
+    background-color: gray;
+}
+.container{
+    display: flex;
+    margin-left:auto;
+    margin-right: auto;
+    
+}
+.big{
+    font-size: 50px;
+    color:gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
